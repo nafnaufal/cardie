@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.WikiSejarah" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#1836B2</item>
+        <item name="colorPrimaryVariant">#9BD4E4</item>
+        <item name="colorOnPrimary">#1836B2</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#1836B2</item>
+        <item name="colorSecondaryVariant">#1836B2</item>
+        <item name="colorOnSecondary">#1836B2</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="roundedSquare">
+        <item name="cornerSize">20%</item>
+    </style>
+</resources>

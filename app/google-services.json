@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "59862233970",
+    "firebase_url": "https://wikisejarah-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wikisejarah",
+    "storage_bucket": "wikisejarah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59862233970:android:245b460601023a4ffb23eb",
+        "android_client_info": {
+          "package_name": "com.kuliah.wikisejarah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59862233970-9pt69ofiruh86jdt49to8kmajudfet5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxiNHlHB5zs1df3dQt7ddb55Jnn7AvfY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59862233970-9pt69ofiruh86jdt49to8kmajudfet5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
